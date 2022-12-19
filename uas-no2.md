@@ -10,7 +10,7 @@ kata lain array adalah sekumpulan data dengan tipe data yang sama.
   Array 2 dimensi adalah array yang memiliki lebih 2 bentuk index array. Jika pada array 1 dimensi hanya memiliki satu bentuk index, di array 2 dimensi 
 atau bisa kita sebut array multidimensi memiliki lebih dari satu bentuk index array. Jika didalam array 1 dimensi hanya menggunakan sebuah 
 tanda [] (bracket) namun pada array 2 dimensi kita membuat 2 tanda [] tersebut.
-  Pada program ini dibuat untuk emnginputkan angka dan angka tersebut masuk ke dalam fungsi for dan if. Jika angka tersebut dapat dibagi 3 atau 5 atau 7
+  Pada program ini dibuat untuk menginputkan angka lalu masuk ke dalam fungsi for dan if. Jika angka tersebut dapat dibagi 3 atau 5 atau 7
 maka angkanya akan terlihat pada bagian output terakhir.
 
 ## Source Code
