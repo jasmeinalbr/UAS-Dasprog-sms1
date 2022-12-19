@@ -2,11 +2,12 @@
 <br>Mata Kuliah 	: Dasar Pemrograman
 <br> Nama		: Jasmein Al-baar Putri Rus'an
 <br>NIM		: 1227050063
-<br>Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
+<br>Jurusan		: [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
   Array adalah sebuah variabel yang punya kemampuan untuk menyimpan lebih dari 1 nilai yang memiliki tipe yang sama. Atau dalam kata lain array adalah sekumpulan data dengan tipe data yang sama.
   Array 2 dimensi adalah array yang memiliki lebih 2 bentuk index array. Jika pada array 1 dimensi hanya memiliki satu bentuk index, di array 2 dimensi atau bisa kita sebut array multidimensi memiliki lebih dari satu bentuk index array. Jika di dalam array 1 dimensi hanya menggunakan sebuah tanda [] (bracket) namun pada array 2 dimensi kita membuat 2 tanda [] tersebut.
+  Pada program ini dibuat untuk menginputkan angka untuk baris dan kolom pada matriks. Lalu program akan menampilkan matriks tersebut. Setelah tertampilkan maka program akan membuat matriks tersebut menjadi matriks transpose menggunakan looping.
   
 ## Source Code
 #include <iostream>
